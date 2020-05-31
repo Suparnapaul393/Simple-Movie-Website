@@ -20,6 +20,6 @@ Features
 Run
 -------------
 
- 1. Clone Repository `git clone https://github.com/cyxn/film-website.git`
+ 1. Clone Repository `git clone https://github.com/suparnapaul393/simple-movie-website.git`
  2. `npm install`
  3. `npm start`
