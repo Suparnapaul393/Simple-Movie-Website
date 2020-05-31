@@ -14,7 +14,7 @@ function AppBarHeader({ ...rest }) {
     return (
         <div className="header">
             <div className="header-container">
-                <div className="logo"><Demo Streaming /></div>
+                <div className="logo"><Logo/></div>
                 <Search {...rest} />
                 <div className="github-link">
                     <a
