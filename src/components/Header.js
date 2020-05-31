@@ -19,7 +19,7 @@ function AppBarHeader({ ...rest }) {
                 <div className="github-link">
                     <a
                         className="header-link"
-                        href="https://github.com/cyxn/film-website"
+                        href="https://github.com/Suparnapaul393/Simple-Movie-Website"
                         target="_blank"
                     >
                         GitHub
