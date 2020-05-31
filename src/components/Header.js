@@ -6,7 +6,7 @@ import '../styles/Header.sass';
 
 const Logo = () => (
     <Link className="header-link" to="/">
-        Logo
+        Demo-Streaming
     </Link>
 );
 
